@@ -54,6 +54,17 @@
           "timestamp": 1744636646.8567214
         }
       ]
+    },
+    {
+      "orders": [
+        {
+          "asset": "EURUSD",
+          "order": "call",
+          "type": "digital",
+          "timeframe": 1,
+          "timestamp": 1744636670.944476
+        }
+      ]
     }
   ]
 }
